@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/a4bi-org-web-portal',
   eslint: {
     ignoreDuringBuilds: true,
   },
